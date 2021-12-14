@@ -16,5 +16,4 @@ Run the ipynb file at Colab with data ready at Google Drive. Then you download t
 Youtube links used for detection:
 1. [Biggest Rc Construction-Site in the World! Rc Truck Action at Minibaustelle Alsfeld 2017!
 ](https://youtu.be/MHaZXSneOGQ)
-2. [Amazing Dangerous Fastest Excavator Operator Skill, Heavy Equipment Machines Truck Working Fail]
-(https://youtu.be/ZgbXp4HmAdY)
+2. [Amazing Dangerous Fastest Excavator Operator Skill, Heavy Equipment Machines Truck Working Fail](https://youtu.be/ZgbXp4HmAdY)
