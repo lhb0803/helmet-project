@@ -1,5 +1,5 @@
 # helmet-project
-Auto helmet detection using computer vision algorithm
+Auto object detection at construction site using computer vision algorithm YOLO
 
 Project for bachelor thesis
 
