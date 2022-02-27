@@ -2,6 +2,9 @@
 Auto object detection at construction site using computer vision algorithm YOLO
 
 Project for bachelor thesis
+* Paper : [pdf link](https://drive.google.com/file/d/11BqAqbsTvpaTv7d6OhQFchU9cS3l5aym/view?usp=sharing)
+* PPT   : [ppt link](https://drive.google.com/file/d/1JX6bwh96tcbc3KoWiKA9wk9E47vJySb-/view?usp=sharing)
+* Video : [detecting video link](https://youtu.be/5S3uVlcjRbw)
 
 The project source code files are organized as below:
 - `construction-image-detecion-final.ipynb`: Loads data from Google Drive to Colab environment, Preprocesses data and Trains model with yolov5 package. You should run this ipython notebook at Colab and your drive should contain folder `Helmet-Project` which contains ACID_6000.zip and Human-Body.zip
