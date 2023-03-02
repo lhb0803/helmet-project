@@ -2,8 +2,8 @@
 Auto object detection at construction site using computer vision algorithm YOLO
 
 Project for bachelor thesis
-* Paper : [pdf link](https://drive.google.com/file/d/11BqAqbsTvpaTv7d6OhQFchU9cS3l5aym/view?usp=sharing)
-* PPT   : [ppt link](https://drive.google.com/file/d/1JX6bwh96tcbc3KoWiKA9wk9E47vJySb-/view?usp=sharing)
+* Paper : [pdf link](https://mysnu-my.sharepoint.com/:b:/g/personal/lhb0803_seoul_ac_kr/EQWWpcPsIyVIrUb3WNrXWBABXbgh9MGhtsQr2EFRZtnK8g?e=iBOceI)
+* PPT   : [ppt link](https://mysnu-my.sharepoint.com/:p:/g/personal/lhb0803_seoul_ac_kr/EYAK5WYjO4FKh5Oiyk8LYb8BeImtnXAv2Z1Xoc1GuwA_HA?e=DIw22Yg)
 * Video : [detecting video link](https://youtu.be/5S3uVlcjRbw)
 
 The project source code files are organized as below:
